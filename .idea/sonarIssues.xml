@@ -8,7 +8,137 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/api/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/app/proguard-rules.pro">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/ExampleInstrumentedTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/cash2goods/C2GContactViewModelTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/marketplace/CancelOrderTestCases.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/marketplace/DisputeItemHistoryTestCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/marketplace/JvoHistoryTestCases.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/marketplace/LoginViewModelTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/marketplace/OpenDisputeTestCases.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/mobilebundles/ConfirmMobileBundlesSendViewModelTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/sendmoney/InitSendMoneyViewModelTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/app/src/test/java/com/ibm/jazzcashconsumer/ExampleUnitTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/ime/base/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/ime/overlay/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/ime/overlay/src/debug/res/values/test_styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/ime/overlay/src/debug/res/values/test_values.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/ime/pixel/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/local.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Consumer-Android/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/asrstudios/islamtoolkit/IslamToolkitApplication_HiltComponents.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/asrstudios/islamtoolkit/base/BaseViewModel.java">
           <value>
             <set />
           </value>
@@ -38,12 +168,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/asrstudios/islamtoolkit/others/NetworkUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/asrstudios/islamtoolkit/ui/HomeViewModel.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/base/BaseApiClientRequestFactory.kt">
+        <entry key="$PROJECT_DIR$/app/src/androidTest/java/com/asrstudios/testingsample/C2GTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/androidTest/java/com/asrstudios/testingsample/ExampleInstrumentedTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/IslamToolkitApplication.kt">
           <value>
             <set />
           </value>
@@ -63,11 +213,6 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/base/BaseRequestParam.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/base/BaseResponseModel.kt">
           <value>
             <set />
@@ -78,12 +223,12 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/data/remote/prayertimes/PrayerTimesResponse.kt">
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/base/BaseViewModel.kt">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/data/remote/request/PrayerTimesRequest.kt">
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/data/remote/prayertimes/PrayerTimesResponse.kt">
           <value>
             <set />
           </value>
@@ -93,22 +238,12 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/data/remote/response/prayertimes/Data.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/data/remote/response/prayertimes/Gregorian.kt">
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/data/remote/response/BaseResponseModel.kt">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/data/remote/response/prayertimes/PrayerTimesResponse.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/di/clientfactory/HomeApiClientsFactory.kt">
           <value>
             <set />
           </value>
@@ -129,11 +264,6 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/netwrok/PrayerTimesApiClient.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/netwrok/ResponseException.kt">
           <value>
             <set />
           </value>
@@ -203,11 +333,6 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/ui/HomeFragment.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/asrstudios/islamtoolkit/ui/HomeViewModel.kt">
           <value>
             <set />
@@ -233,6 +358,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/test/java/com/example/testingsample/StringUtilsTest.kt">
           <value>
             <set />
@@ -243,12 +373,167 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/addons/base/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/api/src/test/java/com/anysoftkeyboard/api/KeyCodesTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/build.gradle">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/build/coverage-report/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/build/coverage-report/jacoco-sessions.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/build/reports/coverageReport/coverageReport.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/ConfirmMobileBundlesSendViewModelTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/ExampleInstrumentedTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/ExampleUnitTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/cash2goods/C2GContactViewModelTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/cash2goods/C2GReceivingHistoryTestCases.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/cash2goods/InitCash2GoodsSendViewModelTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/marketplace/BannerMarketplaceViewModelTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/marketplace/BannerViewModelTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/marketplace/BuyProductNowTestCases.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/marketplace/CancelOrderTestCases.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/androidTest/java/com/ibm/jazzcashconsumer/viewmodel/marketplace/DisputeItemHistoryTestCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/main/java/com/anysoftkeyboard/ui/settings/MainSettingsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/main/java/com/ibm/jazzcashconsumer/config/ConfigResolver.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/main/java/com/ibm/jazzcashconsumer/model/retrofit/Service.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/main/java/com/ibm/jazzcashconsumer/util/DeviceUtils.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/main/java/com/ibm/jazzcashconsumer/view/main/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/main/java/com/ibm/jazzcashconsumer/view/main/home/HomeFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/main/java/com/ibm/jazzcashconsumer/viewmodel/mobileload/MobileAccountViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/main/res/layout/fragment_transactions_receipt.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/app/src/test/java/com/ibm/jazzcashconsumer/ExampleUnitTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/coverage.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/jacoco.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Consumer-Android/sonar.gradle">
           <value>
             <set />
           </value>

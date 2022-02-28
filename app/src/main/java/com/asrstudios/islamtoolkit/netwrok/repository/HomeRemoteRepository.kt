@@ -1,12 +1,14 @@
 package com.asrstudios.islamtoolkit.netwrok.repository
 
+import android.content.Context
 import com.asrstudios.islamtoolkit.base.BaseRemoteRepository
 import com.asrstudios.islamtoolkit.base.BaseRequestFactory
-import com.asrstudios.islamtoolkit.base.BaseResponseModel
 import com.asrstudios.islamtoolkit.data.remote.request.PrayerTimesRequest
+import com.asrstudios.islamtoolkit.data.remote.response.BaseResponseModel
 import com.asrstudios.islamtoolkit.netwrok.apiclients.prayertimes.PrayerTimesApiClient
 import dagger.Module
 import dagger.hilt.InstallIn
+import dagger.hilt.android.qualifiers.ApplicationContext
 import dagger.hilt.components.SingletonComponent
 import retrofit2.Response
 import javax.inject.Inject

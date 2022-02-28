@@ -1,5 +1,6 @@
 package com.asrstudios.islamtoolkit.base
 
+import android.widget.Toast
 import com.asrstudios.islamtoolkit.netwrok.ResponseException
 import com.asrstudios.islamtoolkit.others.NetworkUtils
 
@@ -12,7 +13,7 @@ abstract class BaseRequestDispatcher constructor(
 
         var errorMessage: String? = null;
         val response = try {
-            val isNetworkConnected = NetworkUtils.isNetworkAvailable()
+            val isNetworkConnected = NetworkUtils.isNetworkAvailable(requestFactory.getContext())
             if (isNetworkConnected) {
                 remoteRepo.fetchDataFromNetwork(requestFactory)
             } else {
@@ -27,10 +28,14 @@ abstract class BaseRequestDispatcher constructor(
         }
 
         return if (response != null && (response.isSuccessful)) {
-            response.body()
+            val convertToBaseResonse = response.body()
+            convertToBaseResonse?.success = response.isSuccessful
+            convertToBaseResonse
         } else if (response != null && response.code().toString() == "401") {
-            return response
-        } else {
+             response
+        } else if(response==null){
+            Toast.makeText(requestFactory.getContext(),errorMessage,Toast.LENGTH_SHORT)
+        }else {
             if (response?.code().toString().isNullOrEmpty()) throw Exception(response?.message())
             else {
                 if(errorMessage==null && !response?.message().isNullOrEmpty()){

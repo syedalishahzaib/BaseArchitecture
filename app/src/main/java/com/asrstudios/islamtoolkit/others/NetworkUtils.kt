@@ -4,13 +4,14 @@ import android.content.Context
 import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
 import android.os.Build
-import androidx.test.core.app.ApplicationProvider
 import android.net.NetworkInfo
+import com.asrstudios.islamtoolkit.IslamToolkitApplication
+import dagger.hilt.android.qualifiers.ApplicationContext
+import javax.inject.Inject
 
 
 object NetworkUtils {
-    fun isNetworkAvailable(): Boolean {
-        val context = ApplicationProvider.getApplicationContext<Context>() ?: return false
+    fun isNetworkAvailable(context:Context): Boolean {
         val connectivityManager =
             context.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {

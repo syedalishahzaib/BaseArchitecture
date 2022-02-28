@@ -1,5 +1,6 @@
 package com.asrstudios.islamtoolkit.netwrok.repository
 
+import android.content.Context
 import com.asrstudios.islamtoolkit.base.BaseRequestFactory
 import com.asrstudios.islamtoolkit.base.BaseRequestParam
 import com.asrstudios.islamtoolkit.base.BaseRetrofitClient
@@ -12,5 +13,9 @@ class HomeRequestFactory(private val retrofitClient : BaseRetrofitClient, privat
 
     override fun getApiClient(): BaseRetrofitClient {
         return retrofitClient
+    }
+
+    override fun getContext(): Context {
+        return retrofitClient.getAppContext()
     }
 }
